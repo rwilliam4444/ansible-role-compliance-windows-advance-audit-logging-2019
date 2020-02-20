@@ -1,15 +1,15 @@
 ---
 galaxy_info:
   author: Richard M. Williams
-  role_name: compliance-windows-advance-audit-logging-2016
-  description: Windows 2016 CIS Advance Audit Logging Check & Remediation.
+  role_name: compliance-windows-advance-audit-logging-2019
+  description: Windows 2019 CIS Advance Audit Logging Check & Remediation.
   company: 
   license: 
   min_ansible_version: 1.8
   platforms:
     - name: Windows
       versions:
-        - 2016
+        - 2019
   galaxy_tags:
     - windows
     - compliance
